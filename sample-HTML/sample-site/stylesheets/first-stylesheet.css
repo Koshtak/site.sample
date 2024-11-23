@@ -1,0 +1,34 @@
+p,li{
+    font-size: 16px;
+    letter-spacing: 1px;
+    color:aqua;
+    font-style: oblique;
+}
+
+p{
+    color:chocolate;    
+}
+
+h1{
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+}
+
+body{
+    margin:0 auto;
+    padding:0 20px 20px 20px ;
+    width: 900px;
+    border: 8px solid blue;
+    background-color:aqua;
+}
+
+html{
+    background-color:coral;
+}
+
+#yazi{
+    border: 4px solid orangered;
+}
+.par{
+    font-style: italic;
+}
